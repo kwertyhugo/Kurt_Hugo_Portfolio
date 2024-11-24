@@ -1,6 +1,6 @@
 # Kurt Justine J. Hugo
 
-An aspiring data analyst trying to find answers to anything I curious of.
+A Computer Science student in De La Salle University who is an aspiring data analyst, trying to find answers to anything he is curious of.
 
 You can find my resume and my works in this public repository for your own references.
 
